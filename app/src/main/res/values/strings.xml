@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LinearLayout Vertical</string>
+    <string name="boton">  Cambiar Layout >></string>
+    <string name="title_activity_main2">LinearLayout Horizontal</string>
+</resources>
